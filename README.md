@@ -2,7 +2,7 @@
 
 Team Collaboration :
 \\Nguyễn Huy Hoàng
-\\Nguyễn Tông Quân
+<br/>Nguyễn Tông Quân
 \\Nguyễn Viết Vũ 
 \\Nguyễn Xuân Trình
 \\Phạm Văn Trường
