@@ -1,5 +1,12 @@
 # Image to Latex
 
+Team Collaboration :
+Nguyễn Huy Hoàng
+Nguyễn Tông Quân
+Nguyễn Viết Vũ 
+Nguyễn Xuân Trình
+Phạm Văn Trường
+
 ## Introduction
 
 This respository implement the Seq2Seq Image to Latex architecture from paper “Image to Latex.” of Genthial, Guillaume. (2017).
@@ -20,19 +27,8 @@ This structure is based on Seq2Seq architecture, it use one Convolutional Encode
 </div>
 
 ## Dataset
-### im2latex100k
-- https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k
-- https://www.kaggle.com/datasets/tuannguyenvananh/im2latex-sorted-by-size
 ### im2latex170k
 - https://www.kaggle.com/datasets/rvente/im2latex170k
-- https://www.kaggle.com/datasets/tuannguyenvananh/im2latex-170k-meta-data
-
-## How to use?
-
-### Login wandb
-- `wandb login <key>`
-
-```python main.py --batch-size 2 --data-path C:\Users\nvatu\OneDrive\Desktop\dataset5\dataset5 --img-path C:\Users\nvatu\OneDrive\Desktop\dataset5\dataset5\formula_images --dataset 170k --val --decode-type beamsearch```
 
 ## Example
 - <a href="https://www.kaggle.com/code/tuannguyenvananh/image2latex-resnetbilstm-lstm">ResNet Row Encoder</a>
