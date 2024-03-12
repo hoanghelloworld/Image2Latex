@@ -1,11 +1,11 @@
 # Image to Latex
 
 Team Collaboration :
-\\Nguyễn Huy Hoàng
+<br/>Nguyễn Huy Hoàng
 <br/>Nguyễn Tông Quân
-\\Nguyễn Viết Vũ 
-\\Nguyễn Xuân Trình
-\\Phạm Văn Trường
+<br/>Nguyễn Viết Vũ 
+<br/>Nguyễn Xuân Trình
+<br/>Phạm Văn Trường
 
 ## Introduction
 
